@@ -1,5 +1,5 @@
-# Project Title
-Todo List
+# Todo App
+
 
 ## Description
 A Kotlin MVVM android mobile TODO list application (offline cashing/Search/Filter)
